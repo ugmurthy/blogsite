@@ -69,16 +69,29 @@ This is a _paragraph_ with **typing animation** based on [TypeIt](https://typeit
 
 **mermaid**
 
+**Pie Chart**
+
 {{< mermaid >}}
+pie
+"Value 1" : 50
+"Value 2" : 40
+"Value 3" : 100
+"Value 4" : 200
+"Value 5" : 80
+{{< /mermaid >}}
 
-graph LR;
+**GitGraph**
 
-    A[Hard edge] -->|Link text| B(Round edge)
-
-    B --> C{Decision}
-
-    C -->|Yes| D[Result: Possible]
-
-    C -->|No| E[Result: Not Possible]
-
+{{< mermaid >}}
+gitGraph
+commit
+commit
+branch develop
+checkout develop
+commit
+commit
+checkout main
+merge develop
+commit
+commit
 {{< /mermaid >}}
