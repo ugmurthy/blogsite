@@ -1,0 +1,35 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tips - Category - </title>
+        <link>http://localhost:1313/categories/tips/</link>
+        <description>Tips - Category - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ugmurthy@gmail.com (Murthy Udupa)</managingEditor>
+            <webMaster>ugmurthy@gmail.com (Murthy Udupa)</webMaster><lastBuildDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</lastBuildDate><atom:link href="http://localhost:1313/categories/tips/" rel="self" type="application/rss+xml" /><item>
+    <title>Selecting a tool for a managing blogsite</title>
+    <link>http://localhost:1313/posts/first_post/</link>
+    <pubDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/posts/first_post/</guid>
+    <description><![CDATA[<p>I sought Grok3&rsquo;s help to do DeepSearch to provide me a report on exsiting tools that can use a github repo as source of searchable content. Here is the prompt and the response.</p>
+<p>Prompt : <em>I am looking for software that manager a blogsite whose content can be stored as MarkDown on Github. It should basic blogsite features that as chronologically ordered posts, search, tagging for categorisation.</em></p>
+<h2 id="key-points">Key Points</h2>
+<ul>
+<li>It seems likely that Hugo is a suitable software for managing a blog site with Markdown content stored on GitHub, offering features like chronologically ordered posts, search, and tagging.</li>
+<li>Research suggests Jekyll is another viable option, with a larger community but potentially slower performance compared to Hugo.</li>
+<li>The evidence leans toward using static site generators like Hugo or Jekyll, as they integrate well with GitHub Pages for hosting.</li>
+</ul>
+<h2 id="software-recommendation">Software Recommendation</h2>
+<p>For managing your blog site with content stored as Markdown on GitHub, Hugo is a strong choice. It’s a fast and efficient static site generator that supports Markdown files, allowing you to store your posts in a GitHub repository and generate a blog site with features like chronologically ordered posts, search, and tagging. Hugo can be easily set up to work with GitHub Pages, making deployment straightforward.</p>]]></description>
+</item>
+<item>
+    <title>Github Stats on your Github profile page</title>
+    <link>http://localhost:1313/posts/github_profile/</link>
+    <pubDate>Tue, 04 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/posts/github_profile/</guid>
+    <description><![CDATA[<p>Ever wondered how some GitHub profiles stand out with dynamic stats, vibrant visuals, and an interactive feel? Welcome to the art of creating a dynamic GitHub profile page! In this post, we&rsquo;ll dive into showcasing your coding prowess through GitHub statistics to turn your profile into a living resume of your coding journey. Let&rsquo;s make your GitHub profile not just a page, but an experience.</p>
+<h2 id="create-a-github-profile-readme">Create a GitHub Profile README:</h2>
+<p>GitHub allows you to create a special repository named after your username (e.g., <code>yourusername/yourusername</code>).</p>]]></description>
+</item>
+</channel>
+</rss>

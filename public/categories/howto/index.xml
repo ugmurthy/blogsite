@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>HowTo - Category - </title>
+        <link>http://localhost:1313/categories/howto/</link>
+        <description>HowTo - Category - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ugmurthy@gmail.com (Murthy Udupa)</managingEditor>
+            <webMaster>ugmurthy@gmail.com (Murthy Udupa)</webMaster><lastBuildDate>Tue, 04 Mar 2025 16:07:43 &#43;0530</lastBuildDate><atom:link href="http://localhost:1313/categories/howto/" rel="self" type="application/rss+xml" /><item>
+    <title>Github Stats on your Github profile page</title>
+    <link>http://localhost:1313/posts/github_profile/</link>
+    <pubDate>Tue, 04 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/posts/github_profile/</guid>
+    <description><![CDATA[How to create a git profile that standsout]]></description>
+</item>
+<item>
+    <title>Using shortcodes in Hugo</title>
+    <link>http://localhost:1313/posts/hugo/</link>
+    <pubDate>Tue, 04 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/posts/hugo/</guid>
+    <description><![CDATA[How to use shortcodes in Hugo]]></description>
+</item>
+</channel>
+</rss>

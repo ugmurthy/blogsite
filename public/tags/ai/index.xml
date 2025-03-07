@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>AI - Tag - </title>
+        <link>http://localhost:1313/tags/ai/</link>
+        <description>AI - Tag - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ugmurthy@gmail.com (Murthy Udupa)</managingEditor>
+            <webMaster>ugmurthy@gmail.com (Murthy Udupa)</webMaster><lastBuildDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</lastBuildDate><atom:link href="http://localhost:1313/tags/ai/" rel="self" type="application/rss+xml" /><item>
+    <title>SpeechTrack</title>
+    <link>http://localhost:1313/posts/speechtrack/</link>
+    <pubDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/posts/speechtrack/</guid>
+    <description><![CDATA[This post is related to a dev-challenge sponsored by assemblyAI]]></description>
+</item>
+</channel>
+</rss>

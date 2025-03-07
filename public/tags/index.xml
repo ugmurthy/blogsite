@@ -1,0 +1,88 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - </title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Tags - Tag - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ugmurthy@gmail.com (Murthy Udupa)</managingEditor>
+            <webMaster>ugmurthy@gmail.com (Murthy Udupa)</webMaster><lastBuildDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>AI</title>
+    <link>http://localhost:1313/tags/ai/</link>
+    <pubDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/tags/ai/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>AI Eval</title>
+    <link>http://localhost:1313/tags/ai-eval/</link>
+    <pubDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/tags/ai-eval/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>AssemblyAI</title>
+    <link>http://localhost:1313/tags/assemblyai/</link>
+    <pubDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/tags/assemblyai/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Blogging</title>
+    <link>http://localhost:1313/tags/blogging/</link>
+    <pubDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/tags/blogging/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>DeepSearch</title>
+    <link>http://localhost:1313/tags/deepsearch/</link>
+    <pubDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/tags/deepsearch/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Grok3</title>
+    <link>http://localhost:1313/tags/grok3/</link>
+    <pubDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/tags/grok3/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>GTD</title>
+    <link>http://localhost:1313/tags/gtd/</link>
+    <pubDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/tags/gtd/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Speech2Text</title>
+    <link>http://localhost:1313/tags/speech2text/</link>
+    <pubDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/tags/speech2text/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Technology</title>
+    <link>http://localhost:1313/tags/technology/</link>
+    <pubDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/tags/technology/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Git</title>
+    <link>http://localhost:1313/tags/git/</link>
+    <pubDate>Tue, 04 Mar 2025 16:07:43 &#43;0530</pubDate>
+    <author>Murthy Udupa</author>
+    <guid>http://localhost:1313/tags/git/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

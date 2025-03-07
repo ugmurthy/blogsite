@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Torun4ever - title - </title>
+        <link>http://localhost:1313/torun4ever/</link>
+        <description>Torun4ever - title - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ugmurthy@gmail.com (Murthy Udupa)</managingEditor>
+            <webMaster>ugmurthy@gmail.com (Murthy Udupa)</webMaster><atom:link href="http://localhost:1313/torun4ever/" rel="self" type="application/rss+xml" /></channel>
+</rss>
