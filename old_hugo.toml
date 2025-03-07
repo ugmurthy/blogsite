@@ -1,0 +1,113 @@
+baseURL = "http://example.org/"
+
+
+# Change the default theme to be use when building the site with Hugo
+
+theme = "LoveIt"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+# website title
+
+### title = "My New Hugo Site"
+
+###
+title = 'ToRun4Ever'
+[params]
+  [params.search]
+    enable = true
+    type = "lunr"
+    contentLength = 4000  # Max length of content to index per page (adjust as needed)
+    placeholder = "Search posts..."  # Placeholder text for the search bar
+    maxResultLength = 10  # Max number of results to display
+    snippetLength = 50  # Length of text snippets in results
+subtitle = 'The Best things in life arent free'
+
+[params.contact]
+email = 'ugmurthy@gmail.com'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+###
+
+# language code ["en", "zh-CN", "fr", "pl", ...]
+
+languageCode = "en"
+
+# language name ["English", "简体中文", "Français", "Polski", ...]
+
+languageName = "English"
+
+
+# Menu config
+
+[menu]
+
+[[menu.main]]
+
+weight = 1
+
+identifier = "posts"
+
+# you can add extra information before the name (HTML format is supported), such as icons
+
+pre = ""
+
+# you can add extra information after the name (HTML format is supported), such as icons
+
+post = ""
+
+name = "Posts"
+
+url = "/posts/"
+
+# title will be shown when you hover on this menu link
+
+title = ""
+
+[[menu.main]]
+
+weight = 2
+
+identifier = "tags"
+
+pre = ""
+
+post = ""
+
+name = "Tags"
+
+url = "/tags/"
+
+title = ""
+
+[[menu.main]]
+
+weight = 3
+
+identifier = "categories"
+
+pre = ""
+
+post = ""
+
+name = "Categories"
+
+url = "/categories/"
+
+title = ""
+
+
+# Markup related configuration in Hugo
+
+[markup]
+
+# Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+
+[markup.highlight]
+
+# false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+
+noClasses = false
