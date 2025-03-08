@@ -24,9 +24,13 @@ title = 'ToRun4Ever'
     maxResultLength = 10  # Max number of results to display
     snippetLength = 50  # Length of text snippets in results
 subtitle = 'The Best things in life arent free'
-
-[params.contact]
-email = 'ugmurthy@gmail.com'
+  [params.home.posts]
+    enable = true
+    title = "Recent Posts"
+    subtitle = "The latest and greatest"
+    limit = 5
+  [params.contact]
+    email = 'ugmurthy@gmail.com'
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
