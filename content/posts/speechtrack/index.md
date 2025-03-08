@@ -22,8 +22,8 @@ With intuitive visual indicators for `Clarity` and `Tempo`, **SpeechTrack** empo
 
 Whether you’re preparing for a big presentation, a podcast, or an important conversation, **SpeechTrack** helps you speak with confidence, precision, and impact. Try it now and transform the way you communicate!
 
-{{< details summary="Technical Overview" >}}
 
+{{< admonition type=Quote title="Technical Overview" open=false >}}
 1. App - built using `REMIX.run` & `React` web framework `tailwind.css` and `daisyUI` for styling
 2. App modules (at a high level)
    1. Microphone - to stream Audio
@@ -34,22 +34,21 @@ Whether you’re preparing for a big presentation, a podcast, or an important co
    6. Finally present the Report in MARKDOWN format
    7. Maintain a history of last 3 Speeches in localStorage on client side
 
-{{< /details >}}
+{{< /admonition >}}
 
 ## Demo
-
 <!-- Share a link to your app and include some screenshots here. -->
-
 Six minute video explaining how **SpeechTrack** works
 {{< youtube fPCqXuN4JLY >}}
 
-{{< details summary="Screenshot: Shows Server Logs while doing above video" >}}
+
+{{< admonition  title="Screenshot: Shows Server Logs while doing above video" open=false >}}
 
 ![ServerLogs](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w6atithr9kbbkkf9gdtz.png)
 
-{{< /details >}}
+{{< /admonition >}}
 
-## Here are some use cases:
+## Use cases
 
 <!-- FIRST USE CASE --->
 
@@ -59,7 +58,7 @@ A good speaker can keep the audience spell bound. What is it that they do well t
 
 {{< youtube -BwnBD-PRDc >}}
 
-{{< details summary="Here is the Speech Evaluation Report from LeMUR" >}}
+{{< admonition type=quote title="Here is the Speech Evaluation Report from LeMUR" open=false >}}
 
 ## Analysis & Feedback
 
@@ -94,13 +93,13 @@ The speaker delivers a powerful message with good use of pauses, allowing the au
 
 By implementing these suggestions, the speaker can elevate an already powerful message to create an even more impactful and polished presentation.
 
-{{< /details >}}
+{{< /admonition >}}
 
-{{< details summary="Screenshot: Shows Transcript" >}}
+{{< admonition  title="Screenshot: Shows Transcript" open=false >}}
 
 ![Transcript](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/weauwibr8ycqx128fsnw.png)
 
-{{< /details >}}
+{{< /admonition >}}
 
 <!-- END OF FIRST --->
 
@@ -114,14 +113,14 @@ In the following video hear the first line direct the app to prepare for summary
 
 {{< youtube HbjrybxDiqM >}}
 
-{{< details summary="Screenshot:  Realtime transcript with directives to parameter object"  >}}
+{{< admonition  title="Screenshot:  Realtime transcript with directives to parameter object" open=false >}}
 
 ![RT Transcript](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/omxg0s3t0ydzvtq4zxuq.png)
-{{< /details >}}
+{{< /admonition >}}
 
 <!-- process details -->
 
-{{< details summary="The various steps in the process Speech->Transript->Inference." >}}
+{{< admonition title="The various steps in the process Speech->Transript->Inference." open=false >}}
 
 ```
 ## All lines except those with leading ##'s are from server logs
@@ -175,16 +174,16 @@ f(getTranscriptFromURL) {
 f(askLeMUR): 9.234s
 ```
 
-{{< /details >}}
+{{< /admonition >}}
 
 <!-- endprocess detaisl -->
 
-{{< details summary="Screenshot:  Transcription and Sentiment Analysis" >}}
+{{< admonition title="Screenshot:  Transcription and Sentiment Analysis" open=false >}}
 
 ![Sentiment](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/stpv95s1p7pq3xytlocv.png)
-{{< /details >}}
+{{< /admonition >}}
 
-{{< details summary="CUSTOM PROMPT used with LeMUR" >}}
+{{< admonition title="CUSTOM PROMPT used with LeMUR" open=false >}}
 
 ```
 You are **SpeechEvaluator**, an expert in analyzing and
@@ -244,17 +243,23 @@ DO NOT APOLOGIZE FOR INFORMATION NOT AVAILABLE FOR ABOVE ANALYSIS"
 Below is the metrics from this Speech in JSON format. Use it to evaluate the speech.
 ```
 
-{{< /details >}}
+{{< /admonition >}}
 
 <!-- END OF SECOND --->
 
-[Code Repository](https://github.com/ugmurthy/voicetracker)
-[SpeechTrack](voicetracker-gt5vz8o79-murthy-udupas-projects.vercel.app)
-{% details Application issues %}
+
+{{< admonition type=example title="Code Repo and App" >}}
+
+- [Code Repository](https://github.com/ugmurthy/voicetracker)
+- [SpeechTrack](voicetracker-gt5vz8o79-murthy-udupas-projects.vercel.app)
+
+{{< /admonition >}}
+
+{{< admonition title="Application issues" open=false >}}
 
 1. You get Error : `Not Authorized` inspite of providing an API key. Solution: Click `Next Speech` to get a new token
 2. The Application is stuck with the Spinner on endlessly : This is a case of `http: 504 : Bad gateway` Vercel.com times out serverless functions in 10secs. Most time leMUR task takes more time. Vercel serverless does not wait for long. Best is to run the application locally for big audio files.
-   {% enddetails %}
+   {{< /admonition >}}
 
 ## Journey
 

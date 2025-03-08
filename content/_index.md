@@ -2,7 +2,7 @@
 title = "This is Content Home Page"
 +++
 
-{{< image src="/header.jpg"  >}}
+{{< image src="header.jpg"  >}}
 
 {{< style "text-align:center; outline:1px solid black;border-radius: 4px ; strong{color:#ffb100;}" >}}
 
