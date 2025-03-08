@@ -6,11 +6,12 @@
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ugmurthy@gmail.com (Murthy Udupa)</managingEditor>
             <webMaster>ugmurthy@gmail.com (Murthy Udupa)</webMaster><lastBuildDate>Tue, 04 Mar 2025 16:07:43 &#43;0530</lastBuildDate><atom:link href="http://localhost:1313/tags/git/" rel="self" type="application/rss+xml" /><item>
     <title>Github Stats on your Github profile page</title>
-    <link>http://localhost:1313/posts/github_profile/</link>
+    <link>http://localhost:1313/posts/gitprofile/</link>
     <pubDate>Tue, 04 Mar 2025 16:07:43 &#43;0530</pubDate>
     <author>Murthy Udupa</author>
-    <guid>http://localhost:1313/posts/github_profile/</guid>
-    <description><![CDATA[How to create a git profile that standsout]]></description>
+    <guid>http://localhost:1313/posts/gitprofile/</guid>
+    <description><![CDATA[<p>
+Ever wondered how some GitHub profiles stand out with dynamic stats, vibrant visuals, and an interactive feel? Welcome to the art of creating a dynamic GitHub profile page! In this post, we&rsquo;ll dive into showcasing your coding prowess through GitHub statistics to turn your profile into a living resume of your coding journey. Let&rsquo;s make your GitHub profile not just a page, but an experience.</p>]]></description>
 </item>
 </channel>
 </rss>

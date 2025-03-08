@@ -14,7 +14,7 @@ category = "categories"
 ### title = "My New Hugo Site"
 
 ###
-title = 'ToRun4Ever'
+title = 'Build it daily'
 [params]
   [params.search]
     enable = true
@@ -23,7 +23,7 @@ title = 'ToRun4Ever'
     placeholder = "Search posts..."  # Placeholder text for the search bar
     maxResultLength = 10  # Max number of results to display
     snippetLength = 50  # Length of text snippets in results
-subtitle = 'The Best things in life arent free'
+    subtitle = 'The Best things in life arent free'
   [params.home.posts]
     enable = true
     title = "Recent Posts"
@@ -31,6 +31,22 @@ subtitle = 'The Best things in life arent free'
     limit = 5
   [params.contact]
     email = 'ugmurthy@gmail.com'
+[params.header.title]
+    # URL of the LOGO
+    # LOGO 的 URL
+    logo = ""
+    # title name
+    # 标题名称
+    name = "Build daily"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+    post = "..."
+    # whether to use typeit animation for title name
+    # 是否为标题显示打字机动画
+    typeit = true
 
 [params.page.comment.gitalk]
 enable = true

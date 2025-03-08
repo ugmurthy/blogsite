@@ -4,11 +4,12 @@ draft = false
 tags = ["hugo","technology","shortcodes"]
 categories = ["HowTo"]
 title = 'Using shortcodes in Hugo'
-summary = "How to use shortcodes in Hugo"
-linkToMarkdown = true
+
 +++
 
-Usings Short codes
+![heading](featured-image.png)
+
+**Hugo** has built-in shortcodes and **LoveIt** Theme extends the shortcodes to do more. Here are some examples of both.
 
 ## Details
 

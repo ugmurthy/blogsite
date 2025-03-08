@@ -4,11 +4,9 @@ draft = false
 tags = ["technology", "assemblyAI", "Speech2Text","AI eval","AI"]
 categories = ["projects"]
 title = 'SpeechTrack'
-summary = "This post is related to a dev-challenge sponsored by assemblyAI"
-
 +++
 
-![heading](heading.png)
+![heading](featured-image.png)
 
 ## What I Built
 

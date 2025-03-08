@@ -4,9 +4,9 @@ draft = false
 tags = ["gitprofile","technology","git","profile"]
 categories = ["HowTo"]
 title = 'Github Stats on your Github profile page'
-summary = "How to create a git profile that standsout"
 +++
 
+!["featured-image](featured-image.jpg)
 Ever wondered how some GitHub profiles stand out with dynamic stats, vibrant visuals, and an interactive feel? Welcome to the art of creating a dynamic GitHub profile page! In this post, we'll dive into showcasing your coding prowess through GitHub statistics to turn your profile into a living resume of your coding journey. Let's make your GitHub profile not just a page, but an experience.
 
 ## Create a GitHub Profile README:

@@ -10,7 +10,15 @@
     <pubDate>Tue, 04 Mar 2025 16:07:43 &#43;0530</pubDate>
     <author>Murthy Udupa</author>
     <guid>http://localhost:1313/posts/hugo/</guid>
-    <description><![CDATA[How to use shortcodes in Hugo]]></description>
+    <description><![CDATA[<p></p>
+<p><strong>Hugo</strong> has built-in shortcodes and <strong>LoveIt</strong> Theme extends the shortcodes to do more. Here are some examples of both.</p>
+<h2 id="details">Details</h2>
+<p>Details allow you to expand some text below a given summary text</p>
+
+<details>
+  <summary>See the details</summary>
+  <blockquote>
+<p>This is a <strong>bold</strong> world.This is a <strong>bold</strong> world. Don&rsquo;t tread lightly out here as there will be some nefarious character who could ambush you and that wont go well. So beware!</p>]]></description>
 </item>
 </channel>
 </rss>

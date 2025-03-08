@@ -18,15 +18,23 @@
     <pubDate>Wed, 05 Mar 2025 16:07:43 &#43;0530</pubDate>
     <author>Murthy Udupa</author>
     <guid>http://localhost:1313/posts/speechtrack/</guid>
-    <description><![CDATA[This post is related to a dev-challenge sponsored by assemblyAI]]></description>
+    <description><![CDATA[<p></p>
+<h2 id="what-i-built">What I Built</h2>
+<p>SpeechTrack is a AI based App built as a part of submission to a dev-challenge sponsored by AssemblyAI</p>
+<h3 id="speechtrack">SpeechTrack</h3>
+<p><em>Getting a deeper understanding of speech with <a href="https://www.assemblyai.com/" target="_blank" rel="noopener noreffer ">AssemblyAI</a></em>
+Ever wondered how your speech sounds to others? Clarity and speed are the heartbeat of effective communication, but striking the perfect balance can be a challenge.</p>
+<p>Enter <strong>SpeechTrack</strong>, your real-time speech companion.
+With intuitive visual indicators for <code>Clarity</code> and <code>Tempo</code>, <strong>SpeechTrack</strong> empowers you to refine your delivery through post speech <code>Feedback</code>.</p>]]></description>
 </item>
 <item>
     <title>Github Stats on your Github profile page</title>
-    <link>http://localhost:1313/posts/github_profile/</link>
+    <link>http://localhost:1313/posts/gitprofile/</link>
     <pubDate>Tue, 04 Mar 2025 16:07:43 &#43;0530</pubDate>
     <author>Murthy Udupa</author>
-    <guid>http://localhost:1313/posts/github_profile/</guid>
-    <description><![CDATA[How to create a git profile that standsout]]></description>
+    <guid>http://localhost:1313/posts/gitprofile/</guid>
+    <description><![CDATA[<p>
+Ever wondered how some GitHub profiles stand out with dynamic stats, vibrant visuals, and an interactive feel? Welcome to the art of creating a dynamic GitHub profile page! In this post, we&rsquo;ll dive into showcasing your coding prowess through GitHub statistics to turn your profile into a living resume of your coding journey. Let&rsquo;s make your GitHub profile not just a page, but an experience.</p>]]></description>
 </item>
 <item>
     <title>Using shortcodes in Hugo</title>
@@ -34,7 +42,15 @@
     <pubDate>Tue, 04 Mar 2025 16:07:43 &#43;0530</pubDate>
     <author>Murthy Udupa</author>
     <guid>http://localhost:1313/posts/hugo/</guid>
-    <description><![CDATA[How to use shortcodes in Hugo]]></description>
+    <description><![CDATA[<p></p>
+<p><strong>Hugo</strong> has built-in shortcodes and <strong>LoveIt</strong> Theme extends the shortcodes to do more. Here are some examples of both.</p>
+<h2 id="details">Details</h2>
+<p>Details allow you to expand some text below a given summary text</p>
+
+<details>
+  <summary>See the details</summary>
+  <blockquote>
+<p>This is a <strong>bold</strong> world.This is a <strong>bold</strong> world. Don&rsquo;t tread lightly out here as there will be some nefarious character who could ambush you and that wont go well. So beware!</p>]]></description>
 </item>
 </channel>
 </rss>
